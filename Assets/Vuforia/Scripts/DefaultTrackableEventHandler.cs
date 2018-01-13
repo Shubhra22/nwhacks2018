@@ -105,6 +105,7 @@ namespace Vuforia
             }
 
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
+
         }
 
         #endregion // PRIVATE_METHODS

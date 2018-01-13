@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nwHacks", "nwHacks.csproj", "{542F8AE3-1854-AF17-7346-9B4E799789B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nwHacks.Editor", "nwHacks.Editor.csproj", "{821A4030-0FB4-9C43-267C-5EDCAA9F6E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542F8AE3-1854-AF17-7346-9B4E799789B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542F8AE3-1854-AF17-7346-9B4E799789B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542F8AE3-1854-AF17-7346-9B4E799789B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542F8AE3-1854-AF17-7346-9B4E799789B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821A4030-0FB4-9C43-267C-5EDCAA9F6E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821A4030-0FB4-9C43-267C-5EDCAA9F6E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821A4030-0FB4-9C43-267C-5EDCAA9F6E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821A4030-0FB4-9C43-267C-5EDCAA9F6E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

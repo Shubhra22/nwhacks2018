@@ -34,8 +34,8 @@
 -r:'/Applications/Unity5.6/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll'
 -r:'/Applications/Unity5.6/PlaybackEngines/Facebook/UnityEditor.Facebook.Extensions.dll'
 -r:'/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll'
--r:'Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll'
 -r:'Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll'
+-r:'Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll'
 -r:'/Applications/Unity5.6/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
 -r:'/Applications/Unity5.6/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
 -define:UNITY_5_3_OR_NEWER
