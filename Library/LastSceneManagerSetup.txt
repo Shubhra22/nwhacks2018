@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scnes/Main.unity
+- path: Assets/MicrosoftCognitiveApi/Scene/TextReco.unity
   isLoaded: 1
   isActive: 1
